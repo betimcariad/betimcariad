@@ -10,6 +10,7 @@ As long, as I work for this company, this account will be valid.
 
 ## Contact details:
 
+- Initial contact possibility: https://github.com/betimcariad/betimcariad/issues (create an issue task)
 - Depending on the topic, we can continue the contact through e-mail.
 - Please restrain from contacting me via e-mail, until agreed on.
 
