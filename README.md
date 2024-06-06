@@ -1,16 +1,18 @@
-## Hi there 👋
+# Betim
 
-<!--
-**betimcariad/betimcariad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+This is not a private account. I will work through this account only for my company related topics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work for https://github.com/cariad-tech . 
+
+As long, as I work for this company, this account will be valid.
+
+## Contact details:
+
+- Depending on the topic, we can continue the contact through e-mail.
+- Please restrain from contacting me via e-mail, until agreed on.
+
+---
+
+`Fear leads to anger. Anger leads to hate. Hate leads to suffering.`
